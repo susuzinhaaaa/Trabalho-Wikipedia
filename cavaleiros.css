@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+    body{
+        font-family: "Montserrat", sans-serif;
+        text-indent: 1.5em;
+        margin: 32px 48px;
+        background-color: rgba(239, 239, 239, 1);
+        color: black;
+
+    }
+    .corpo{
+        background-color: rgba(255, 255, 255, 1);
+        margin-top: 2em;
+        margin: auto;
+        padding: 30px;
+
+    }
+    .img1{
+        text-align: left;
+        width: 20%;
+    }
+    h1{
+        text-align: left;
+        text-indent: 2em;
+        margin-bottom: 0px;
+        margin-left: 20px;
+    }
+    hr{
+        text-align: center;
+        width: 95%;
+        border: 1px 0px 0px 0px;
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .div1{
+        text-align: left;
+        border-color: black;
+        border-width: 1px;
+        border-style: solid;
+        margin-left: 40px;
+        width: 220px;
+        height: 250px;
+    }
+   h2{
+        background-color:rgba(112, 195, 255, 1);
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 50.51px;
+        text-align: center;
+        padding-right: 40px;
+        margin: 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+   }
+   li{
+        font-weight: 400;
+        color: black;
+        margin-left: 20px;
+        font-size: 20px;
+        text-decoration: underline;
+   }
+   p{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    h3{
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 53.64px;
+        text-indent: 2em;
+        margin-bottom: 0px;
+        margin-left: 20px;
+        
+    }
+    h4{
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 5px;
+        text-indent: 2em;
+        margin-left: 20px;
+    }
